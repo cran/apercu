@@ -1,0 +1,13 @@
+1525fd0d887e7f4f1f27b6547cbccedf *DESCRIPTION
+e61fff0b12b0af76d8b708c8a0dd0bf8 *NAMESPACE
+b9b32d66e038c141db5cd2ad797d55c1 *R/ap.R
+8dc92bef93ad590aebb0e1836c1cf79c *README.md
+b8ee53e3f9b46665c072369433a8848f *man/ap.Rd
+9f3d3ad3a01fac3c7a3b79586702f845 *man/aperWrapper.Rd
+caf177266ffa299f238d137851ce2f96 *man/apercu.Rd
+e35f67f5fd551146356c1321e6507ae4 *man/classDeterminer.Rd
+c39b52072615ba7d199d18a8d697b719 *man/fittingLimits.Rd
+4b7a8d28074f1993b118645dbe8a5830 *man/limitsLister.Rd
+aee2ec9888e50c6173a935b415772f6a *man/print.ap.Rd
+045f483bfaaae92bae30f89a8eacc1fa *tests/testthat.R
+34fce7c7725d286507df40c9054019fe *tests/testthat/test-ap.R
