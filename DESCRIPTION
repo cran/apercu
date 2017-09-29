@@ -1,7 +1,8 @@
 Package: apercu
 Type: Package
-Title: Apercu is Giving you a Quick Look at your Data
-Version: 0.2.1
+Date: 2017-09-29
+Title: Quick Look at your Data
+Version: 0.2.3
 Author: Aurelien Chateigner <aurelien.chateigner@gmail.com>
 Maintainer: Aurelien Chateigner <aurelien.chateigner@gmail.com>
 Description: The goal is to print an "aperçu", a short view of a vector, a
@@ -17,6 +18,6 @@ RoxygenNote: 6.0.1
 Imports: pls
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2017-04-25 16:05:05 UTC; achateigner
+Packaged: 2017-09-29 11:29:25 UTC; achateigner
 Repository: CRAN
-Date/Publication: 2017-04-25 22:33:55 UTC
+Date/Publication: 2017-09-29 11:54:09 UTC
