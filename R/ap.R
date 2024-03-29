@@ -200,7 +200,6 @@ limitsLister <- function(objet){
 #' apercu
 #' @param o the object for which I need to have the apercu
 #' @param l the limits
-#' @param c the classes
 #' @return The apercu
 #' @keywords internal
 apercu <- function(o, l=lapply(seq_along(dim(o)), function(x) 1:5)){

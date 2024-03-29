@@ -1,8 +1,8 @@
 Package: apercu
 Type: Package
-Date: 2019-12-05
+Date: 2024-03-29
 Title: Quick Look at your Data
-Version: 0.2.4
+Version: 0.2.5
 Author: Aurelien Chateigner <aurelien.chateigner@gmail.com>
 Maintainer: Aurelien Chateigner <aurelien.chateigner@gmail.com>
 Description: The goal is to print an "aperçu", a short view of a vector, a
@@ -13,11 +13,10 @@ Description: The goal is to print an "aperçu", a short view of a vector, a
     for each dimension.
 License: CC BY-SA 4.0
 Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.0.2
+RoxygenNote: 7.2.3
 Imports: pls
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2019-12-06 07:57:41 UTC; achateigner
+Packaged: 2024-03-29 14:15:29 UTC; cleru
 Repository: CRAN
-Date/Publication: 2019-12-06 08:10:02 UTC
+Date/Publication: 2024-03-29 14:30:03 UTC

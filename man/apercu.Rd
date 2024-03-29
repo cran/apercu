@@ -10,8 +10,6 @@ apercu(o, l = lapply(seq_along(dim(o)), function(x) 1:5))
 \item{o}{the object for which I need to have the apercu}
 
 \item{l}{the limits}
-
-\item{c}{the classes}
 }
 \value{
 The apercu
